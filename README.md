@@ -1,0 +1,2 @@
+# Sentiment-Analysis-and-Polarity-Categorization-of-Amazon-Kindle-Reviews-Dataset
+This project performs a sentiment analysis on the amazon kindle reviews dataset using python libraries such as nltk, numpy, pandas, sklearn, and mlxtend using 3 classifiers namely: Naive Bayes, Random Forest, and Support Vector Machines. Finally the obtained outputs are compared with the expected ones using the f1-score computation, for each classifier and the decision boundaries created by the SVM are plotted.
